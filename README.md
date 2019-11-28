@@ -24,36 +24,27 @@
 
 ## Description
 
-* Importing Libraries
- ** Libraries for GUI have been imported- tkinter, ttk, messagebox.
- ** Libraries for GUI have been imported- tkinter, ttk, messagebox.
 * **Importing Libraries**
-    * 2.1 load data
-    * 2.2 Outlier detection
-    * 2.3 joining train and test set
-    * 2.4 check for null and missing values
-* **2 Load and check data**
-    * 2.1 load data
-    * 2.2 Outlier detection
-    * 2.3 joining train and test set
-    * 2.4 check for null and missing values
-* **3 Feature analysis**
-    * 3.1 Numerical values
-    * 3.2 Categorical values
-* **4 Filling missing Values**
-    * 4.1 Age
-* **5 Feature engineering**
-    * 5.1 Name/Title
-    * 5.2 Family Size
-    * 5.3 Cabin
-    * 5.4 Ticket
-* **6 Modeling**
-    * 6.1 Simple modeling
-        * 6.1.1 Cross validate models
-        * 6.1.2 Hyperparamater tunning for best models
-        * 6.1.3 Plot learning curves
-        * 6.1.4 Feature importance of the tree based classifiers
-    * 6.2 Ensemble modeling
-        * 6.2.1 Combining models
-    * 6.3 Prediction
-        * 6.3.1 Predict and Submit results
+    * Libraries for GUI have been imported- tkinter, ttk, messagebox.
+    * Libraries for Database driver have been imported- sqlite.
+    * Libraries for SMTP protocol have been imported- smtplib, MIMEMultipart, MIMEText.
+
+* **Creating GUI Window**
+    * Structure for the input of Visitor and Host Information.
+    * It will contain Labels and its Entries, Buttons.
+
+* **Connecting Database (SQLite)**
+    * Driver helps in connecting Python with SQLite
+    
+* **Creating Tables Schemas**
+    * Visitors and Hosts Tables schemas are created inside sqlite
+    
+* **Creating UI**
+    * Labels and its Entries are created at the fornt-end of the application
+    * These details are of both Visitors and Hosts.
+  
+* **Data Input**
+    * Data is fed into the database for future use of sending mails.
+    * Further, analysis can be done on this data.
+   
+* **Sending E-Mails**
