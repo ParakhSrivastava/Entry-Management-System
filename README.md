@@ -1,5 +1,8 @@
 # Entry-Management-System
-> Keeping the records of visitors that we have in office and outside, with the help of an application - "ENTRY MANAGEMENT SYSTEM"
+> Keeping the records of visitors that we have in office and outside, with the help of an application - *ENTRY MANAGEMENT SYSTEM*
+
+## Looks-Like
+![](.png)
 
 ## Skills Used 
 * Python
@@ -17,3 +20,5 @@
 * Sending E-Mails
 * Displaying Records(Data)
 * Creating Buttons 
+
+## Description
