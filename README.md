@@ -2,7 +2,7 @@
 > Keeping the records of visitors that we have in office and outside, with the help of an application - *ENTRY MANAGEMENT SYSTEM*
 
 ## Looks-Like
-![](.png)
+![](https://github.com/ParakhSrivastava/Entry-Management-System/blob/master/EMS.PNG)
 
 ## Skills Used 
 * Python
