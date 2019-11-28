@@ -48,3 +48,14 @@
     * Further, analysis can be done on this data.
    
 * **Sending E-Mails**
+    * Emails will be triggered to the Host regarding details of Visitor.
+    * At checkout time, emails will be triggered to the Visitors.
+    
+* **Displaying Records(Data)**
+    * Visitors and Hosts records are displayed seperately.
+    * Buttons are provided at Front-End.
+    
+* **Creating Buttons**
+    * Created a button for Input Data command.
+    * Created a button for Displaying Visitors records.
+    * Created a button for Displaying Hosts records.
