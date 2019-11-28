@@ -20,7 +20,7 @@ root = tk.Tk()
 root.title("Entry Management System")
 
 # connecting with Database
-connection = sqlite3.connect('management.db', timeout=10)
+connection = sqlite3.connect('management_system.db', timeout=10)
 
 # Creating Visitors Table SCHEMA
 TABLE_NAME_VISITORS = "Visitors"
