@@ -1,3 +1,7 @@
+'''
+GitHub Link: https://github.com/ParakhSrivastava/Entry-Management-System
+'''
+
 # Importing Libraries for GUI
 import tkinter as tk
 from tkinter import ttk, messagebox
